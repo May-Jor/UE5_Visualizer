@@ -1,7 +1,7 @@
 # UE5_Visualizer
 Made an interactive scene in UE5 that reacts to audio from the pc and can be controlled with a mobile device
 
-Couldn't get the project to package, so I just decided to upload the whole thing so someone can use this as a reference.
+Project did not want to upload to git through LFS
 
 Some photos of the scene
 ![Alt text](/1.png?raw=true)
